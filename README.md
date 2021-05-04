@@ -18,7 +18,7 @@ This theme is based on [@PiotrSss](https://github.com/PiotrSss)’s **[logseq-cl
 
 ### How to use
 
-Copy and paste the contents of `custom.css` file into your `custom.css` in Logseq.
+Copy and paste the contents of `custom.css` file into your `logseq/custom.css` file.
 
 ---
 
@@ -40,7 +40,7 @@ Copy and paste the contents of `custom.css` file into your `custom.css` in Logse
 
 ### 使用方法
 
-将 `custom.css` 文件中的内容复制粘贴到 Logseq 中的 `custom.css` 中。
+将本仓库 `custom.css` 文件中的内容复制粘贴到你的 `logseq/custom.css` 中。
 
 ---
 
