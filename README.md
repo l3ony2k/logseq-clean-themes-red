@@ -9,6 +9,8 @@ This theme is based on [@PiotrSss](https://github.com/PiotrSss)’s **[logseq-cl
 - I personally prefer to use a dark + red color scheme, so the main changes are in the colors
   - 0 Saturation background
   - Red accent color
+  - Adjust the display of the current block
+  - Other color fine-tuning to match the color scheme
 - Other changes
   - Increase the outer border and margin of the table
   - Increase the margin of code blocks
@@ -29,6 +31,8 @@ Copy and paste the contents of `custom.css` file into your `custom.css` in Logse
 - 我个人更喜欢使用深色 + 红色的配色，因此主要的更改在颜色上
   - 0 饱和度背景
   - 红色强调色
+  - 调整当前 block 的显示效果
+  - 其他颜色微调
 - 其他改动
   - 增加表格的外边框和 margin
   - 增加代码块的 margin
