@@ -20,6 +20,14 @@ This theme is based on [@PiotrSss](https://github.com/PiotrSss)’s **[logseq-cl
 
 Copy and paste the contents of `custom.css` file into your `logseq/custom.css` file.
 
+Or
+
+Add the following line to your `logseq/custom.css` file.
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/LeonWong0609/logseq-clean-themes-red@main/custom.css');
+```
+
 ---
 
 自用的 [Logseq](https://logseq.com/) 主题。
@@ -42,6 +50,14 @@ Copy and paste the contents of `custom.css` file into your `logseq/custom.css` f
 
 将本仓库 `custom.css` 文件中的内容复制粘贴到你的 `logseq/custom.css` 中。
 
+或者
+
+将以下代码添加到你的 `logseq/custom.css` 中。
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/LeonWong0609/logseq-clean-themes-red@main/custom.css');
+```
+
 ---
 
 ### Screenshots / 截屏
@@ -49,3 +65,4 @@ Copy and paste the contents of `custom.css` file into your `logseq/custom.css` f
 ![dark](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142409.png)
 
 ![light](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142511.png)
+
