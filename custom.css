@@ -70,8 +70,7 @@
   --ct-italics-font-family: inherit;
   --ct-bold-font-weight: 700;
   --ct-bold-font-family: inherit;
-  --ct-code-font-family: "Fira Code", Monaco, Menlo, Consolas, "COURIER NEW",
-    monospace;
+  --ct-code-font-family: "Fira Code";
   --ct-inline-code-font-size: 0.85em;
   --ct-inline-code-font-style: inherit;
   --ct-inline-code-border-radius: 2px;
@@ -315,15 +314,15 @@ a.title h1.title {
 }
 
 .bullet-container {
-  width: 12px;/*14*/
-  height: 12px;/*14*/
+  width: 14px;/*14*/
+  height: 14px;/*14*/
 }
 
 .bullet-container .bullet {
   width: var(--ct-bullet-size);
   height: var(--ct-bullet-size);
   background-color: var(--ct-bullet-color);
-  transform: scale(1.0001);
+  /*transform: scale(1.0001);*/
 }
 
 .bullet-container.bullet-closed {
@@ -501,7 +500,7 @@ a.tag {
   color: var(--ct-tag-color);
   font-weight: 600;
   border: 1px solid var(--ct-tag-color);
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 0.85em;
   vertical-align: inherit;
   line-height: 1;
@@ -625,7 +624,7 @@ mark {
   font-size: var(--ct-inline-code-font-size);
   font-style: var(--ct-inline-code-font-style) !important;
   border-radius: var(--ct-inline-code-border-radius);
-  text-shadow: 1px 1px 0px black, 1px 1px 1px rgb(136, 136, 136);
+  /*text-shadow: 1px 1px 0px black, 1px 1px 1px rgb(136, 136, 136);*/
 }
 
 .dsl-query > .custom-query .foldable-title .opacity-70 code {
@@ -1152,7 +1151,7 @@ html[data-theme="dark"] {
   --ct-search-field-background-focus: #303030;
   --ct-search-field-text-color: #d5d5d5;
 
-  --ct-page-background: #222;
+  --ct-page-background: #1b1b1b;
   --ct-page-box-shadow: none;
 
   --ct-page-font-color: #fafafa;
@@ -1168,7 +1167,7 @@ html[data-theme="dark"] {
 
   --ct-main-view-border: 0px solid rgba(68, 68, 68, 0.5);/*2px*/
 
-  --ct-page-references-background: #303030;
+  --ct-page-references-background: #232323;
   --ct-page-references-border: none;
 
   --ct-page-properties-background: var(--ct-page-references-background);
@@ -1221,10 +1220,10 @@ html[data-theme="dark"] {
   --ct-external-link-background-hover: var(
     --ct-page-reference-background-hover
   );
-  --ct-external-link-border-bottom: 1px solid #5dadf9;
-  --ct-external-link-border-bottom-hover: 1px solid #6ad0ff;
-  --ct-external-link-color: #5dadf9;
-  --ct-external-link-color-hover: #6ad0ff;
+  --ct-external-link-border-bottom: 0px solid #5dadf9;
+  --ct-external-link-border-bottom-hover: 1px solid #6c9bc9;
+  --ct-external-link-color: #74a9d4;
+  --ct-external-link-color-hover: #6c9bc9;
   --ct-external-link-background-inside-block-reference: var(
     --ct-external-link-background
   );
@@ -1248,8 +1247,8 @@ html[data-theme="dark"] {
   --ct-page-reference-background-hover: #303030;
   --ct-page-reference-brackets-color: #555;
   --ct-page-reference-brackets-color-hover: #555;
-  --ct-page-reference-color: #cc6666;
-  --ct-page-reference-color-hover: #f79a9a;
+  --ct-page-reference-color: #ff7777;
+  --ct-page-reference-color-hover: #ff8888;
   --ct-page-reference-inside-page-references-color: var(
     --ct-page-reference-color
   );
@@ -1306,7 +1305,7 @@ html[data-theme="dark"] {
   --ct-inline-code-color: #f0f0f0;
 
   --ct-query-background: var(--ct-page-properties-background);
-  --ct-query-header-background: #403030;
+  --ct-query-header-background: #1e1e1e;
   --ct-query-header-color: #fff;
   --ct-query-result-page-title: var(--ct-page-reference-color);
   --ct-query-result-page-title-hover: var(--ct-page-reference-color-hover);
