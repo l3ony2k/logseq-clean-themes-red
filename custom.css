@@ -741,6 +741,7 @@ html.is-electron.is-mac .sidebar-item.content > div > div:first-of-type {
 
 .cp__sidebar-help-btn {
   filter: grayscale(1);
+  display: none;
 }
 
 .cp__right-sidebar-settings {
