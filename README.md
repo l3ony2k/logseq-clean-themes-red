@@ -1,10 +1,10 @@
-## Yet another fork of logseq-clean-themes
+# Yet another fork of logseq-clean-themes
 
-Self-use [Logseq](https://logseq.com/) theme. 
+Self-use [Logseq](https://logseq.com/) theme.
 
 This theme is based on [@PiotrSss](https://github.com/PiotrSss)’s **[logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes)** & [@pengx17](https://github.com/pengx17)’s **[logseq-clean-themes-alt](https://github.com/pengx17/logseq-clean-themes-alt)**.
 
-### Modification
+## Modification
 
 - I personally prefer to use a dark + red color scheme, so the main changes are in the colors
   - 0 Saturation background
@@ -16,7 +16,7 @@ This theme is based on [@PiotrSss](https://github.com/PiotrSss)’s **[logseq-cl
   - Increase the margin of code blocks
   - Widen the width of the page content under mobile
 
-### How to use
+## How to use
 
 Copy and paste the contents of `custom.css` file into your `logseq/custom.css` file.
 
@@ -34,7 +34,7 @@ Add the following line to your `logseq/custom.css` file.
 
 这个主题是基于 [@PiotrSss](https://github.com/PiotrSss) 的 **[logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes)** 和 [@pengx17](https://github.com/pengx17) 的 **[logseq-clean-themes-alt](https://github.com/pengx17/logseq-clean-themes-alt)** 修改而来的。
 
-### 修改内容
+## 修改内容
 
 - 我个人更喜欢使用深色 + 红色的配色，因此主要的更改在颜色上
   - 0 饱和度背景
@@ -46,7 +46,7 @@ Add the following line to your `logseq/custom.css` file.
   - 增加代码块的 margin
   - 拓宽 mobile 下页面内容的宽度
 
-### 使用方法
+## 使用方法
 
 将本仓库 `custom.css` 文件中的内容复制粘贴到你的 `logseq/custom.css` 中。
 
@@ -60,9 +60,8 @@ Add the following line to your `logseq/custom.css` file.
 
 ---
 
-### Screenshots / 截屏
+## Screenshots / 截屏
 
 ![dark](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142409.png)
 
 ![light](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142511.png)
-
