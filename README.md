@@ -62,6 +62,6 @@ Add the following line to your `logseq/custom.css` file.
 
 ## Screenshots / 截屏
 
-![dark](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142409.png)
+![Dark](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/Snipaste_2021-05-06_21-57-32.png)
 
-![light](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/20210504142511.png)
+![Light](https://raw.githubusercontent.com/LeonWong0609/LeonPicbed/master/Snipaste_2021-05-06_21-57-24.png)
